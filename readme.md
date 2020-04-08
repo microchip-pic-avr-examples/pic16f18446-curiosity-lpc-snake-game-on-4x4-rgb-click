@@ -21,10 +21,11 @@ Buttons are connected as follows:
 
 Make sure the latest MCC libraries for PIC16F18446 MCU are installed. The demo/example uses the following version of software tools from Microchip:
 
-- MPLAB® X IDE v4.15
-- MPLAB® Code Configurator (Plugin) v3.55.1
-- MCC Core v4.35
-- Microcontrollers and peripherals Library v1.65.1
+- MPLAB® X IDE v5.30
+- XC8® Compiler v2.10
+- MPLAB® Code Configurator (Plugin) v3.95
+- MCC Core v4.85
+- Microcontrollers and peripherals Library v1.80
 
 # Demo Hardware Setup
 
