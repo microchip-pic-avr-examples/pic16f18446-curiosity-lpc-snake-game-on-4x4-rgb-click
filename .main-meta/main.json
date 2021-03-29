@@ -39,14 +39,16 @@
         "author": "Microchip",
         "subcategories": [
             [
-               "Peripherals", "GPIO"
+               "Peripherals",
+			   "GPIO"
             ]
         ],
         "peripherals": [
             "GPIO"
         ],
         "keywords": [
-            "Snake", "RGB 4x4 Click"
+            "Snake",
+			"RGB Click"
         ],
 		"additionalData": {
 			"longDescription": {
