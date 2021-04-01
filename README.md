@@ -1,5 +1,6 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
+# Snake Game Using 4x4 RGB Click™
 
 This is an example of a small snake game running on a PIC16F18446.
 
