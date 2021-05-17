@@ -33,7 +33,7 @@ In this demo,
 
 Buttons are connected as follows:
 
-<br><img src="images/2.jpg" width="600">
+<br><img src="images/2.png" width="600">
 
 
 ### Demo Hardware Setup
@@ -50,7 +50,7 @@ This section shows the settings used in the demo/example for various MCU modules
 
 The MCU uses the high frequency internal oscillator (HFINTOSC), and the clock is set to 32 MHz. Watchdog Timer is not used in this demo, so it is disabled.
 
-<br><img src="images/3.jpg" width="600">
+<br><img src="images/3.png" width="600">
 
 ### Pin Manager Settings
 
@@ -64,8 +64,8 @@ The pins are configured as follows:
 
 The button pins have pull-ups enabled, so they read '1' when the buttons are released, and '0' when the buttons are pressed. The common button pin is GND.
 
-<br><img src="images/4.jpg" width="600">
-<br><img src="images/5.jpg" width="600">
+<br><img src="images/4.png" width="600">
+<br><img src="images/5.png" width="600">
 
 # Demo
 
