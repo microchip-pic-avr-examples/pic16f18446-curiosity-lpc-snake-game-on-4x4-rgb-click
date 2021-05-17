@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f18446-curiosity-snake-on-4x4-rgb-click",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "displayName": "Snake Game Using 4x4 RGB Click",
         "projectName": "pic16f18446-curiosity-snake-on-4x4-rgb-click",
         "shortDescription": "This is an example of a small snake game running on a PIC16F18446.",
